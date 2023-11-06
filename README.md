@@ -29,3 +29,15 @@
 ![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/97aa63ab-2ba5-4b3e-a91e-f12656485830)
 
 
+### END POINTS 
+![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/c8d05dfb-c698-475d-9a03-693b216d18e6)
+
+![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/4b80c0bb-f5a1-4cef-b57e-451eb2d21cbb)
+
+![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/8f7138c6-3a9c-44c7-ba08-9ed93f80ea20)
+
+![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/defc5e8f-9d3b-4c05-81b4-c9f3eeecefa2)
+
+![image](https://github.com/MarcusVogado/Desafio-Back-End/assets/107502578/3f978440-b548-4a95-bf32-531f045ea8b9)
+
+
